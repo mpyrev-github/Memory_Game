@@ -1,0 +1,3 @@
+fonts.css linguist-vendored
+style.css linguist-vendored
+*.js linguist-vendored=false
